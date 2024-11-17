@@ -38,11 +38,3 @@ while True:
         break
     else:
         print("Invalid choice. Please select from the given list.")
-
-        
-
-
-
-
-
-#print(c.convert(100,"INR","USD"))
